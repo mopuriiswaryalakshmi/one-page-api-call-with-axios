@@ -1,2 +1,2 @@
 How to run application
-    node app.js
+   ->  node app.js
