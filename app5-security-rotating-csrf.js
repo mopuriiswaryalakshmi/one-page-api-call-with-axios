@@ -51,6 +51,9 @@ Token Refresh
 
 Refresh the CSRF token on every user interaction to reduce the window of exploitation.
 
-Secure Dependencies
-
+Secure Dependencies:
+  - Keep Dependencies Updated: Regularly update dependencies to ensure 
+  you are protected from known vulnerabilities.
+  - Use Tools like Snyk or npm audit:
+      - Run npm audit to identify and fix vulnerabilities.
 */
